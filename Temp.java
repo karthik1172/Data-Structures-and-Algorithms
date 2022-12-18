@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Temp {
     public int evalRPN(String[] tokens) {
         int a, b;
